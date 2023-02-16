@@ -27,7 +27,7 @@ Training Data: 1275881 Testing Data: 142320
 
 **Step-4:** Run
 
-Run <code> sgd-based-issue-classification.ipynb </code>. Then execute all cells and check the results.
+Run <code> sgd-based-issue-classification.ipynb </code>. Then execute all cells in the jupyter notebook and check the results.
 
 ## Classifier 
 We implemented an SGDClassifier with the following parameters:
@@ -37,4 +37,4 @@ Additional hypermeters can be tried; <a href="https://scikit-learn.org/stable/mo
  
 ## Pre-processing
 We followed standard preprocessing steps such as data cleaning and vectorization. We performed data cleaning mainly using Gensim, check the 
-<code> def preprocess (text) </code>  Then we applied TfidfVectorizer.
+<code> def preprocess (text) </code> function. Then we applied TfidfVectorizer.
