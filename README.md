@@ -1,11 +1,13 @@
 # Stochastic Gradient Descent (SGD)-based Issue Report Classifier
 
-This repository provides our code with documentation for participation in The NLBSE'23 Tool Competition. 
+This repository contains our code and documentation for participation in The NLBSE'23 Tool Competition. 
 
 ## Data Set
 We used issue reports data from real open source projects made available by (Kallis et al., [2023] ([https://doi.org/10.1007/978-3-031-21388-5_34](https://github.com/nlbse2023/issue-report-classification)) for **The NLBSE'23 Tool Competition**.
 
-Training Data: 1275881 Testing Data: 142320
+**Training Data: 1275881**
+
+**Testing Data: 142320**
 
 ## Steps to run the code 
 
