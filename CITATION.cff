@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: An Intelligent Tool for Classifying Issue Reports
+message: If you use this software, please cite it as below.
+authors:
+- family-names: "Laiq"
+  given-names: "Muhammad"
+  email: muhammad.laiq@bth.se
+  affiliation: Blekinge Institute of Technology
+version: 1.0.0
+date-released: 2023-03-12
+url: "https://github.com/laiqujan/sgd-based-issue-classification"
